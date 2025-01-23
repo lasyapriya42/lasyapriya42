@@ -1,7 +1,5 @@
-<!-- Header Section -->
-<img src="https://i.imgur.com/your-banner-image.png" alt="Banner" width="100%" />
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#ff6600;">Madala Lasyapriya</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#ff6600;">Madala Lasyapriya</span></h1>
 
 <p align="center">
 🎓 <b>Second-year BTech CSE Student</b> <br>
@@ -21,39 +19,105 @@
 ---
 
 ## 🌐 **Socials**
-<div align="center">
-  <a href="https://linkedin.com/in/lasya-priya-madala-3493b1290"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:madalalasyapriya@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://github.com/lasyapriya42"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-</div>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/lasya-priya-madala-3493b1290](https://linkedin.com/in/lasya-priya-madala-3493b1290))
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/lasyapriya_4/)
+- [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/23b01a05a5)
 
 ---
 
-## 💻 **Tech Stack**
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-C-blue?style=for-the-badge&logo=c" alt="C"/>
-  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML5-purple?style=for-the-badge&logo=html5" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Framework-Flask-black?style=for-the-badge&logo=flask" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Framework-Bootstrap-purple?style=for-the-badge&logo=bootstrap" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=nodedotjs" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Database-SQLite-lightgrey?style=for-the-badge&logo=sqlite" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Tools-Git-orange?style=for-the-badge&logo=git" alt="Git"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
-</div>
+## 📫 **Contact Me**
+- **College Email**: [23b01a05a5@svecw.edu.in](mailto:23b01a05a5@svecw.edu.in)
+- **Personal Email**: [madalalasyapriya@gmail.com](mailto:madalalasyapriya@gmail.com)
+
+
+---
+
+<details>
+  <summary>💻 <strong>Tech Stack</strong></summary>
+  <br />
+
+  ### 🎯 **Programming Languages**
+  <div>
+    <a href="https://www.python.org/doc/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://en.cppreference.com/w/c" target="_blank">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    </a>
+    <a href="https://docs.oracle.com/en/java/" target="_blank">
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    </a>
+  </div>
+  <br />
+
+  ### 🌐 **Web Development**
+  <div>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    </a>
+    <a href="https://expressjs.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    </a>
+  </div>
+  <br />
+
+  ### 📂 **Database**
+  <div>
+    <a href="https://www.w3schools.com/sql/" target="_blank">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+    </a>
+    <a href="https://sqlite.org/docs.html" target="_blank">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    </a>
+  </div>
+  <br />
+
+  ### ⚙️ **Technical Tools/Libraries**
+  <div>
+    <a href="https://visualstudio.microsoft.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+    </a>
+    <a href="https://git-scm.com/doc" target="_blank">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </a>
+    <a href="https://docs.github.com/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://numpy.org/doc/" target="_blank">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    </a>
+    <a href="https://matplotlib.org/stable/users/index.html" target="_blank">
+      <img src="https://img.shields.io/badge/Matplotlib-0099cc?style=for-the-badge&logo=data&logoColor=white" alt="Matplotlib" />
+    </a>
+  </div>
+</details>
+
+
 
 ---
 
 ## 🚀 **Projects**
 | **Project**               | **Description**                                                                                   | **Technologies**         |
 |---------------------------|---------------------------------------------------------------------------------------------------|--------------------------|
-| [Tech Vision Map](#)      | Designed an interactive guide for students to explore technologies with favorite tracking features. | Flask, HTML, CSS         |
-| [Move with Joy](#)        | A responsive website offering seamless moving services.                                           | Bootstrap, JavaScript    |
-| [Drum Kit](#)             | A web-based drum simulator for interactive music creation.                                        | HTML, CSS, JavaScript    |
-| [Tribute Page](#)         | A webpage dedicated to Dr. A.P.J. Abdul Kalam.                                                   | HTML, CSS                |
+| [Tech Vision Map](https://github.com/lasyapriya42/Tech-Vision-Map)      | Designed an interactive guide for students to explore technologies with favorite tracking features. | Flask, HTML, CSS         |
+| [Move with Joy](https://github.com/lasyapriya42/Move-with-Joy)        | A responsive website offering seamless moving services.                                           | Bootstrap, JavaScript    |
+| [Drum Kit](https://github.com/lasyapriya42/Drum-kit)             | A web-based drum simulator for interactive music creation.                                        | HTML, CSS, JavaScript    |
+| [Tribute Page](https://github.com/lasyapriya42/Tribute-page)         | A webpage dedicated to Dr. A.P.J. Abdul Kalam.                                                   | HTML, CSS                |
 
 ---
 
@@ -73,6 +137,4 @@
 
 ---
 
-## 💬 **Quote**
-> "One should perform their duties with utmost sincerity, without attachment to the results."  
-> — Lord Krishna, Bhagavad Gita
+
