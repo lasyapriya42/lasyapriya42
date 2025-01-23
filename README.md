@@ -3,7 +3,6 @@
 
 <p align="center">
 🎓 <b>Second-year BTech CSE Student</b> <br>
-💻 <b>Passionate about Web Development, DSA, and Problem Solving</b> <br>
 🌱 <b>Eager to learn and explore new technologies</b>
 </p>
 
@@ -13,9 +12,7 @@
 - 🌱 **Currently Learning**: DSA and advanced web technologies.
 - 🔭 **Experienced in**: Working on interactive and responsive web development projects.
 - 😄 **Pronouns**: She/Her.
-- 💬 **Ask me about**: Web Development, DSA, and UI/UX Design.
-- ⚡ **Fun Fact**: I love solving coding challenges and creating user-friendly designs!
-
+- ⚡ **Fun Fact**:For me, web development, DSA, and problem-solving are the ultimate brain fuel!
 ---
 
 ## 🌐 **Socials**
